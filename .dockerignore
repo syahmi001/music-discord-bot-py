@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+.github
+discordbot
+.env
+.gitignore
+.gitattributes
+*.log
