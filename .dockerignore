@@ -2,6 +2,7 @@ __pycache__
 .vscode
 .github
 discordbot
+venv
 .env
 .gitignore
 .gitattributes
